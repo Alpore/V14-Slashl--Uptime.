@@ -1,2 +1,2 @@
 # V14-Slashl--Uptime.
-Uptime Altyapısı
+Hata Bulursanız Aircod Discord Sunucusuna Gelin
